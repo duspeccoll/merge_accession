@@ -1,0 +1,6 @@
+en:
+  plugins:
+    merge_accession:
+      merge_confirm_title: "Are you sure?"
+      merge_confirm_message: "Merge from %{source}"
+      merge_description: Merge this Accession's data into...
